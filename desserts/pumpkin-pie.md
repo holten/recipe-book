@@ -11,7 +11,7 @@
 
 ## Ingredients
 
-- Pie shell
+- Pie shell (ready bought on prepped previously)
 - Nutmeg
 - Can of evaporated milk
 - 0.4 cup sugar

@@ -5,9 +5,14 @@
 - 1/2 jar of Dolmio sauce
 - 1 tbsp of oil
 - 1 tsp of salt
+- 2 l water
 
 ## Instructions
-boil the tortelloni in salted, oily water for 4 minutes
+fill water in pot
+add oil
+add salt
+bring to a boil
+add tortelloni and boil it all for 4 minutes
 while heating the sauce in a separate pan or in the micro for half effect
 
 serve with pasta underneath the sauce.

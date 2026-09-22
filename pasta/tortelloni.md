@@ -1,4 +1,4 @@
-### Recipe for tortelloni pasta
+# Recipe for tortelloni pasta
 
 ## Ingredients
 - packet of tortelloni
